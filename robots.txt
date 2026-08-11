@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhism1389-coder.github.io/shohaday_gomnam/sitemap.xml
